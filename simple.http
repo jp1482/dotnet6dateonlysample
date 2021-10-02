@@ -1,0 +1,35 @@
+
+### get
+GET https://localhost:7199/api/simpledateonly
+
+### Post Request
+
+Post https://localhost:7199/api/simpledateonly
+Content-Type: application/json
+
+"2021-01-01"
+
+### get
+GET https://localhost:7199/api/simpledatetime
+
+### Post Request
+
+Post https://localhost:7199/api/simpledatetime
+Content-Type: application/json
+
+"2021-01-01"
+
+
+### get
+GET https://localhost:7199/api/simpledateonlyworkaround
+
+### Post Request
+
+Post https://localhost:7199/api/simpledateonlyworkaround
+Content-Type: application/json
+
+"2021-01-01"
+
+
+
+
